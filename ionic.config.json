@@ -1,0 +1,8 @@
+{
+  "name": "Dezer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "9cf00bb7"
+}
